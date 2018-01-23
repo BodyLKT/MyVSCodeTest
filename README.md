@@ -1,2 +1,2 @@
-# temaproiectbogdanl
-Web Design I - Tema proiect Bogdan Lacatusu
+# MyVSCodeTest
+Web Design_Tema proiect Bogdan Lacatusu
